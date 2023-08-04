@@ -1,0 +1,33 @@
+{
+    "name": "Smart Home 3",
+    "address": "Koramangala, Bengaluru",
+    "description": "15KWh",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/3.png",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type",
+            "value": "Smart Home"
+        },
+        {
+            "trait_type": "No. of PV Panels",
+            "value": 3
+        },
+        {
+            "trait_type": "No. of Batteries",
+            "value": 3
+        },
+        {
+            "trait_type": "Max. Production",
+            "value": 50
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        }
+    ]
+}

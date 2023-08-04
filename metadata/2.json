@@ -1,0 +1,33 @@
+{
+    "name": "Smart Home 2",
+    "address": "Hunasamarnahalli, Bengaluru",
+    "description": "30KWh",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/2.png",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trait_type": "Type",
+            "value": "Smart Home"
+        },
+        {
+            "trait_type": "No. of PV Panels",
+            "value": 4
+        },
+        {
+            "trait_type": "No. of Batteries",
+            "value": 4
+        },
+        {
+            "trait_type": "Max. Production",
+            "value": 200
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1980
+        }
+    ]
+}

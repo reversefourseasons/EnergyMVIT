@@ -1,0 +1,33 @@
+{
+    "name": "Smart Home 1",
+    "address": "Yelahanka, Bengaluru",
+    "description": "50KWh",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/1.png",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Type",
+            "value": "Smart Home"
+        },
+        {
+            "trait_type": "No. of PV Panels",
+            "value": 2
+        },
+        {
+            "trait_type": "No. of Batteries",
+            "value": 3
+        },
+        {
+            "trait_type": "Max. Production",
+            "value": 100
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2013
+        }
+    ]
+}
